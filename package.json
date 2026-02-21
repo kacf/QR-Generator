@@ -1,0 +1,6 @@
+{
+    "name": "qr-gen",
+    "version": "1.0.0",
+    "description": "QR Code Generator for links and UPI payments",
+    "private": true
+}
